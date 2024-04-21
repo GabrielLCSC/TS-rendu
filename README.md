@@ -1,4 +1,4 @@
-# Task Manager Application
+# :sparkles: Task Manager
 
 ## Installation
 
